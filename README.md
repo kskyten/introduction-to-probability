@@ -14,5 +14,5 @@ To compile a HTML version of the book you need to have `xsltproc` installed and 
 
 ## License
 
-The book itself is licensed under [GNU Free Documentation License](https://www.gnu.org/copyleft/fdl.html)
-the conversion code is licensed under MIT.
+The book itself is licensed under [GNU Free Documentation License](https://www.gnu.org/copyleft/fdl.html).
+The conversion code is licensed under MIT.
